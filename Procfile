@@ -1,1 +1,1 @@
-worker: python RehaanReels.py
+web: python RehaanReels.py
